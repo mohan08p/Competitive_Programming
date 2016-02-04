@@ -1,5 +1,4 @@
-__author__ = 'mohan08p'
-#To change this template use Tools | Templates.
+# __author__ = 'mohan08p'
 # Enter your code here. Read input from STDIN. Print output to STDOUT
 if __name__=='__main__':
     t=input()
