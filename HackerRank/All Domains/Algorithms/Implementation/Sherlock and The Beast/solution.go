@@ -26,5 +26,5 @@ func main() {
             }
             fmt.Println()
         }
-    }   
+    }
 }
